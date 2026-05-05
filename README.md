@@ -51,7 +51,7 @@ expense-tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Prakhar-creator/Smart-Expense-Tracker.git
 cd expense-tracker
 
 
