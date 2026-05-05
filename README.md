@@ -27,3 +27,37 @@ Includes secure authentication, modular architecture, and efficient async proces
 ---
 
 ## 📁 Project Structure
+
+
+expense-tracker/
+│── src/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── middlewares/
+│ ├── config/
+│ └── app.js
+│
+│── server.js
+│── package.json
+│── .env
+
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/expense-tracker.git
+cd expense-tracker
+
+
+###  2.Install dependencies
+npm install
+
+```
+
+
