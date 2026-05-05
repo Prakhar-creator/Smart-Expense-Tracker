@@ -54,10 +54,27 @@ expense-tracker/
 git clone https://github.com/Prakhar-creator/Smart-Expense-Tracker.git
 cd expense-tracker
 
-
+```
 ###  2.Install dependencies
 npm install
 
 ```
+
+```
+### 3. Configure Environment Variables
+
+```
+Create a .env file:
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+
+```
+### 4. Run the server
+npm start
+
+Server will run on:
+
+http://localhost:5000
 
 
