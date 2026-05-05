@@ -56,10 +56,9 @@ cd expense-tracker
 
 ```
 ###  2.Install dependencies
-npm install
 
 ```
-
+npm install
 ```
 ### 3. Configure Environment Variables
 
